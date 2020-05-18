@@ -3,12 +3,12 @@ scipy
 matplotlib
 pandas
 seaborn
-email
-getpass
-imaplib
 os
 base64
 io
 requests
 bs4
 voila
+email
+getpass
+imaplib
